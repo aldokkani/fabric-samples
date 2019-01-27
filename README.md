@@ -1,6 +1,6 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
-# Bock-Drive is a sample filesharing platform based on Private Blockchain (Hyperledger)
+# Block-Drive is a sample filesharing platform based on Private Blockchain (Hyperledger)
 
 
 ## Prerequisites
